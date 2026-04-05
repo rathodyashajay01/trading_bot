@@ -40,3 +40,8 @@ python cli.py --symbol BTCUSDT --side SELL --type LIMIT --quantity 0.001 --price
 
 - python -m venv venv
   venv\Scripts\activate
+
+## Create a `.env` file with your own Binance Futures Testnet API keys:
+
+- BINANCE_API_KEY=your_testnet_key
+- BINANCE_API_SECRET=your_testnet_secret
