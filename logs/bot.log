@@ -1,0 +1,4 @@
+2026-04-05 19:23:07,046 - INFO - Placing order: BTCUSDT BUY MARKET qty=0.001 price=None
+2026-04-05 19:23:08,077 - INFO - Response: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
+2026-04-05 19:27:49,087 - INFO - Placing order: BTCUSDT SELL LIMIT qty=0.001 price=30000.0
+2026-04-05 19:27:49,958 - INFO - Response: {'code': -2015, 'msg': 'Invalid API-key, IP, or permissions for action'}
